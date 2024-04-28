@@ -1,5 +1,5 @@
 title: Guillermo Lissa
-author: https://github.com/Guillin
+author: https://github.com/guillermolissa
 email: guillermo.lissa@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -33,7 +33,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: Guilllin
-    github:  Guillin
+    github:  guillermolissa
     linkedIn: in/guillermolissa
     #dribbble: jekyll
     #flickr:   jekyll
@@ -59,8 +59,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-#theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
+theme: plainwhite
+#remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
